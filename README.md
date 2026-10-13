@@ -5,15 +5,20 @@ El marketplace de plugins de CRISTAL+ (Digital Express). Tiene un plugin: **CRIS
 
 ## Instalarlo
 
-**En claude.ai, la app de escritorio o Cowork** (planes Pro, Max, Team y Enterprise):
+**En claude.ai, la app de escritorio o Cowork** (planes Pro, Max, Team y Enterprise). No lo busques
+en el buscador de Plugins: no aparece ahí, se agrega con su dirección.
 
-1. **Customize → Plugins → Add → Add marketplace**, con la dirección de este repositorio:
-   `https://github.com/CreadoresSAS/cristalmas-claude`.
-2. Instalá **CRISTAL+** y, en su solapa **Connectors**, conectalo: Claude abre CRISTAL+, entrás con tu
-   usuario y apretás **Permitir**.
+1. **Personalización → Plugins → + Agregar → Agregar marketplace → Agregar desde un repositorio**
+   (*Customize → Plugins → Add → Add marketplace*). En **URL**, pegá
+   `https://github.com/CreadoresSAS/cristalmas-claude` y apretá **Sincronizar**. Si aparece un aviso
+   sobre la «Claude GitHub App», cerralo: no hace falta.
+2. En la lista aparece **CRISTAL+**: apretá **Agregar**.
+3. Abrí **CRISTAL+**, solapa **Conectores**, y apretá **Conectar** junto a **cristal**. Claude muestra el
+   conector ya completo: **Continuar** y **Agregar**, sin cambiar nada.
+4. Apretá **Conectar** otra vez: Claude abre CRISTAL+, entrás con tu usuario y apretás **Permitir**.
 
-En Team y Enterprise, un Owner puede dejarlo instalado para toda la organización desde
-Organization settings → Plugins & skills.
+En Team y Enterprise también lo agrega cada persona. Si no ves **Agregar marketplace**, tu organización
+de Claude lo tiene apagado: pedíselo a quien la administra.
 
 **En Claude Code:**
 

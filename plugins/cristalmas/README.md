@@ -6,8 +6,10 @@ escritorio, en el celular, en Cowork y en Claude Code.
 
 ## Instalarlo
 
-En claude.ai, la app de escritorio o Cowork: **Customize → Plugins → Add → Add marketplace** con
-`https://github.com/CreadoresSAS/cristalmas-claude`, e instalá **CRISTAL+**.
+En claude.ai, la app de escritorio o Cowork: **Personalización → Plugins → + Agregar → Agregar
+marketplace → Agregar desde un repositorio**, con `https://github.com/CreadoresSAS/cristalmas-claude`,
+y **Sincronizar**. Después **Agregar** en **CRISTAL+**. El paso a paso está en el
+[README del repositorio](https://github.com/CreadoresSAS/cristalmas-claude#readme).
 
 En Claude Code:
 
@@ -17,7 +19,8 @@ En Claude Code:
 
 ## Cómo se usa
 
-1. Instalá el plugin y conectá el conector **CRISTAL+** desde su solapa **Connectors**.
+1. En el plugin, solapa **Conectores**: **Conectar** junto a **cristal** (Continuar y Agregar, sin
+   cambiar nada) y **Conectar** otra vez.
 2. Claude abre CRISTAL+: entrá con tu usuario, revisá la empresa y apretá **Permitir**.
 3. Preguntá en castellano: «¿cuál es el promedio de kilos por guía por mes en 2025?», «¿dónde está
    el envío 0001-000000123456-U?», «¿cuánto sale mandar 30 kilos a Córdoba?», «¿se puede hacer
