@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cristal": {
+      "type": "http",
+      "url": "https://mas.softwarecristal.ar/api/v3/mcp"
+    }
+  }
+}

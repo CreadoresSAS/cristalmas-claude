@@ -1,0 +1,15 @@
+{
+  "name": "softwarecristal",
+  "description": "Plugins de CRISTAL+ para Claude, de Digital Express",
+  "owner": {
+    "name": "Digital Express",
+    "url": "https://www.softwarecristal.ar"
+  },
+  "plugins": [
+    {
+      "name": "cristalmas",
+      "source": "./plugins/cristalmas",
+      "description": "CRISTAL+ en Claude: consultá la documentación y los datos de tu empresa, seguí y cotizá envíos, y analizá pedidos, con tu cuenta y tus permisos de CRISTAL+"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cristalmas",
+  "displayName": "CRISTAL+",
+  "version": "1.0.0",
+  "description": "CRISTAL+ en Claude: la documentación, los datos de tu empresa (guías, viajes, flota, compras, CRM), el seguimiento y la cotización de envíos, y el análisis de pedidos, siempre con tu cuenta y tus permisos de CRISTAL+.",
+  "author": {
+    "name": "Digital Express",
+    "url": "https://www.softwarecristal.ar"
+  },
+  "homepage": "https://www.softwarecristal.ar"
+}
