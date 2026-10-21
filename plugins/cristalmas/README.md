@@ -1,8 +1,8 @@
 # CRISTAL+
 
 CRISTAL+ en Claude: consultá la documentación de CRISTAL+ y los datos de tu empresa, seguí y cotizá
-envíos, pedí retiros y analizá pedidos, desde una conversación, en claude.ai, en la app de
-escritorio, en el celular, en Cowork y en Claude Code.
+envíos, pedí retiros, atendé los casos de la mesa de ayuda y analizá pedidos, desde una conversación,
+en claude.ai, en la app de escritorio, en el celular, en Cowork y en Claude Code.
 
 ## Instalarlo
 
@@ -23,7 +23,8 @@ En Claude Code:
    cambiar nada) y **Conectar** otra vez.
 2. Claude abre CRISTAL+: entrá con tu usuario, revisá la empresa y apretá **Permitir**.
 3. Preguntá en castellano: «¿cuál es el promedio de kilos por guía por mes en 2025?», «¿dónde está
-   el envío 0001-000000123456-U?», «¿cuánto sale mandar 30 kilos a Córdoba?», «¿se puede hacer
+   el envío 0001-000000123456-U?», «¿cuánto sale mandar 30 kilos a Córdoba?», «¿cómo se calcula
+   el recargo de una devolución?», «¿qué le contesto al cliente del caso 100255?», «¿se puede hacer
    este pedido del cliente?».
 
 Claude trabaja **con tu cuenta y tus permisos**: ve y hace lo mismo que vos en CRISTAL+, en la empresa
