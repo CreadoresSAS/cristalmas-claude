@@ -30,7 +30,7 @@ En Claude Code:
 Claude trabaja **con tu cuenta y tus permisos**: ve y hace lo mismo que vos en CRISTAL+, en la empresa
 con la que te conectaste, y te pide confirmación antes de crear algo. Lo habilita quien administra los
 permisos de tu empresa (Configurar Empresa → Seguridad). La conexión se ve y se revoca en CRISTAL+,
-en Mi cuenta → Claude.
+en Mi cuenta → Mi IA.
 
 ## Qué datos viajan
 
@@ -42,4 +42,4 @@ salen como «Reservado». El plugin no guarda nada por su cuenta.
 
 El conector de este plugin es el del servidor central. Si tu empresa tiene un servidor propio, agregá
 el conector por su dirección (`https://<tu servidor>/api/v3/mcp`) como conector personalizado; la
-dirección está en CRISTAL+, en Mi cuenta → Claude.
+dirección está en CRISTAL+, en Mi cuenta → Mi IA.

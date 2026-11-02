@@ -14,5 +14,8 @@ description: Contestar preguntas con números de CRISTAL+ —cuántas guías, cu
    - una medida **no aditiva** (un promedio, un «por guía») no se suma entre grupos;
    - una fila **«Otros»** junta a los que quedaron fuera del ranking: no digas nada de uno de ellos;
    - una fila **«Reservado»** protege datos de pocas personas: no la deduzcas por diferencia;
-   - los `avisos` dicen si algo de lo pedido no se usó.
+   - los `avisos` dicen si algo de lo pedido no se usó;
+   - **`certeza`** dice cuánto creerle a la cuenta en esta empresa: si el nivel no es «alta», decí
+     **primero** qué falta y para qué lado se corre, y no saques conclusiones como si estuviera
+     completa. No inventes un porcentaje de error.
 5. Mostrá el número con su período y su filtro, y ofrecé el corte siguiente que tenga sentido.

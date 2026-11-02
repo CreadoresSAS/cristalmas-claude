@@ -33,4 +33,4 @@ Después, en una sesión: `/mcp` → **cristal** → **Authenticate**.
 
 Las personas a las que su empresa les habilitó el conector en CRISTAL+ (Configurar Empresa →
 Seguridad). Claude ve y hace lo mismo que la persona en CRISTAL+, y pide confirmación antes de crear
-algo. La conexión se ve y se revoca en CRISTAL+, en Mi cuenta → Claude.
+algo. La conexión se ve y se revoca en CRISTAL+, en Mi cuenta → Mi IA.
