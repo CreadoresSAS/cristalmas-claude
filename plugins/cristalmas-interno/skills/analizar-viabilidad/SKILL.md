@@ -15,4 +15,5 @@ description: Analizar si un pedido o una tarea de CRISTAL+ se puede hacer, qué 
    técnica: decilo y no inventes el análisis.
 4. Si al final se decide hacerla y está la herramienta `crear_tarea`: antes buscá con
    `buscar_tareas` si ya hay una parecida, mostrá el resumen y creala sólo cuando la persona lo
-   confirme.
+   confirme. Si el pedido viene de un caso, pasá su número en `caso`. Sin caso la crea sólo el
+   responsable del proyecto o Dios: a los demás la herramienta les contesta que lo pidan por un caso.

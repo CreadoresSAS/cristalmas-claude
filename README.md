@@ -1,7 +1,11 @@
 # CRISTAL+ para Claude
 
-El marketplace de plugins de CRISTAL+ (Digital Express). Tiene un plugin: **CRISTAL+**
-(`cristalmas`), que conecta Claude con tu CRISTAL+ con tu cuenta y tus permisos.
+El marketplace de plugins de CRISTAL+ (Digital Express). Tiene dos plugins:
+
+- **CRISTAL+** (`cristalmas`), que conecta Claude con tu CRISTAL+ con tu cuenta y tus permisos. Es el
+  que instala cualquier empresa.
+- **CRISTAL+ para Digital Express** (`cristalmas-interno`), con los métodos de los analistas de Digital
+  Express. Es sólo para su personal y necesita el anterior instalado.
 
 ## Instalarlo
 
@@ -28,6 +32,9 @@ claude plugin install cristalmas@softwarecristal
 ```
 
 Después, en una sesión: `/mcp` → **cristal** → **Authenticate**.
+
+**El personal de Digital Express** agrega además **CRISTAL+ para Digital Express**: en claude.ai, con
+**Agregar** en la misma lista; en Claude Code, con `claude plugin install cristalmas-interno@softwarecristal`.
 
 ## Quién lo puede usar
 

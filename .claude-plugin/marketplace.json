@@ -9,7 +9,12 @@
     {
       "name": "cristalmas",
       "source": "./plugins/cristalmas",
-      "description": "CRISTAL+ en Claude: consultá la documentación y los datos de tu empresa, seguí y cotizá envíos, atendé los casos de la mesa de ayuda y analizá pedidos, con tu cuenta y tus permisos de CRISTAL+"
+      "description": "CRISTAL+ en Claude: consultá la documentación y los datos de tu empresa, seguí y cotizá envíos y atendé los casos de la mesa de ayuda, con tu cuenta y tus permisos de CRISTAL+"
+    },
+    {
+      "name": "cristalmas-interno",
+      "source": "./plugins/cristalmas-interno",
+      "description": "Para el personal de Digital Express: los métodos de los analistas, analizar la viabilidad de un pedido y diagnosticar un dato. Necesita el plugin CRISTAL+"
     }
   ]
 }

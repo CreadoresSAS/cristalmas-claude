@@ -1,0 +1,12 @@
+{
+  "name": "cristalmas-interno",
+  "displayName": "CRISTAL+ para Digital Express",
+  "version": "1.0.0",
+  "description": "Los métodos de los analistas de Digital Express: analizar la viabilidad de un pedido y diagnosticar un dato que quedó mal. Para el personal de Digital Express; necesita el plugin CRISTAL+ instalado.",
+  "author": {
+    "name": "Digital Express",
+    "url": "https://www.softwarecristal.ar"
+  },
+  "homepage": "https://www.softwarecristal.ar",
+  "license": "Apache-2.0"
+}
