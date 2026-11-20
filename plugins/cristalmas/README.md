@@ -43,6 +43,11 @@ salen como «Reservado». El plugin no guarda nada por su cuenta.
 Cómo tratamos los datos personales: la [política de privacidad](https://mas.softwarecristal.ar/privacidad/).
 Para cualquier consulta sobre tus datos, escribí a clientes@digital-express.com.ar.
 
+## Privacidad
+
+Qué recibe y qué guarda CRISTAL+ cuando Claude lo consulta, cuánto tiempo y cómo pedir que se borre está
+en la [política de privacidad de CRISTAL+](https://mas.softwarecristal.ar/privacidad/#conector-ia).
+
 ## Si tu empresa usa otro servidor de CRISTAL+
 
 El conector de este plugin es el del servidor central. Si tu empresa tiene un servidor propio, agregá

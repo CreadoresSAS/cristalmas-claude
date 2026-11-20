@@ -1,13 +1,16 @@
 {
   "name": "cristalmas",
   "displayName": "CRISTAL+",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CRISTAL+ en Claude: la documentación, los datos de tu empresa (guías, viajes, flota, compras, CRM), el seguimiento y la cotización de envíos y los casos de la mesa de ayuda, siempre con tu cuenta y tus permisos de CRISTAL+.",
   "author": {
     "name": "Digital Express",
     "url": "https://www.softwarecristal.ar"
   },
   "homepage": "https://www.softwarecristal.ar",
+  "repository": "https://github.com/CreadoresSAS/cristalmas-claude",
+  "documentationUrl": "https://github.com/CreadoresSAS/cristalmas-claude/tree/main/plugins/cristalmas#readme",
+  "supportUrl": "mailto:clientes@digital-express.com.ar",
   "privacyPolicyUrl": "https://mas.softwarecristal.ar/privacidad/",
   "license": "Apache-2.0"
 }

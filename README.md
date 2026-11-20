@@ -41,3 +41,9 @@ Después, en una sesión: `/mcp` → **cristal** → **Authenticate**.
 Las personas a las que su empresa les habilitó el conector en CRISTAL+ (Configurar Empresa →
 Seguridad). Claude ve y hace lo mismo que la persona en CRISTAL+, y pide confirmación antes de crear
 algo. La conexión se ve y se revoca en CRISTAL+, en Mi cuenta → Mi IA.
+
+## Privacidad
+
+El plugin no junta datos por su cuenta: trae las instrucciones para Claude y la dirección del conector.
+Qué recibe y qué guarda CRISTAL+ cuando Claude lo consulta, cuánto tiempo y cómo pedir que se borre está
+en la [política de privacidad de CRISTAL+](https://mas.softwarecristal.ar/privacidad/#conector-ia).
